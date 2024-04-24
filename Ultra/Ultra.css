@@ -14,13 +14,13 @@
     border-bottom-right-radius: 5px;
 }
 
-rect.pointerEvents__585e6 {
+/*rect.pointerEvents__585e6 {
     stroke: var(--background-primary);
     stroke-width: 2px;
     mask: none;
     ry: 4px;
     rx: 4px;
-}
+}*/
 
 .svg-2azL_l > svg > rect {
     mask: unset;
